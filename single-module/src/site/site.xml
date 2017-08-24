@@ -4,6 +4,7 @@
     <menu name="Overview">
       <item name="Introduction" href="index.html"/>
       <item name="FAQ" href="faq.html"/>
+      <item name="sa" href="index.html">
     </menu>
     <menu ref="reports" inherit="bottom"/>
   </body>
